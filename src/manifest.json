@@ -1,0 +1,11 @@
+{
+	"id": "reveal-folded",
+	"name": "Reveal Folded",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Adds command to reveal file in file explorer, folding all other folders",
+	"author": "d7sd6u",
+	"authorUrl": "https://github.com/d7sd6ud",
+	"fundingUrl": "https://ko-fi.com/d7sd6ug",
+	"isDesktopOnly": false
+}

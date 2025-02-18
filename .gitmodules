@@ -1,0 +1,3 @@
+[submodule "obsidian-typings"]
+	path = obsidian-typings
+	url = git@github.com:d7sd6u/obsidian-typings.git
