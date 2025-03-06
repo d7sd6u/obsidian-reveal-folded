@@ -1,6 +1,6 @@
 # Reveal Folded
 
-Adds a command that reveals the current file while collapsing all other tree items.
+Reveal the current file in the file explorer while collapsing all other tree items.
 
 https://github.com/user-attachments/assets/7169035f-361e-4e6f-91cf-99dbd210a1e9
 
