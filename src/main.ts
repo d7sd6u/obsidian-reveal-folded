@@ -29,7 +29,6 @@ export default class RevelFolded extends Plugin {
 					100,
 				);
 			},
-			hotkeys: [],
 		});
 	}
 }
