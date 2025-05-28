@@ -1,7 +1,7 @@
 {
 	"id": "reveal-folded",
 	"name": "Reveal Folded",
-	"version": "1.0.1",
+	"version": "1.1.0",
 	"minAppVersion": "1.8.0",
 	"description": "Reveal the current file in the file explorer while collapsing all other tree items.",
 	"author": "d7sd6u",
