@@ -8,7 +8,7 @@
 		"target": "ES6",
 		"allowJs": true,
 		"moduleResolution": "node",
-		"importHelpers": true,
+		"importHelpers": false,
 		"isolatedModules": true,
 		"noEmit": true,
 		"allowImportingTsExtensions": true,

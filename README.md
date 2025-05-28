@@ -1,6 +1,6 @@
 # Reveal Folded
 
-Reveal the current file in the file explorer while collapsing all other tree items.
+Reveal the current file in the file explorer while collapsing all other tree items. Has an auto-reveal option for the desktop Obsidian - refocuses active file whenever you move around your vault.
 
 https://github.com/user-attachments/assets/7169035f-361e-4e6f-91cf-99dbd210a1e9
 
